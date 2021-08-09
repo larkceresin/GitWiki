@@ -15,7 +15,7 @@ Currently have the following sections:
 
 ## Contribution
 
-If you would like to contribute: please check out [Contribution](./contribution.md) for detailed information.
+If you would like to contribute: Please check out [Contribution](./contribution.md) for detailed information.
 
 For new sections, it's suggested to use the provided [template](./template.md) as a guide.
 
